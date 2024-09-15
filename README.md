@@ -3,11 +3,16 @@
 
 ## 1. Основы Linux
 - Создание директории devops_test в домашнем каталоге.
+
 ` mkdir devops_test `
 - Создание пустого файла readme.txt в созданной директории.
+
 ` touch readme.txt `
 - Показать текущий путь в терминале.
+
 ` pwd ` 
+![image](https://github.com/user-attachments/assets/60ee9887-ed2b-44eb-b825-f13f95b49915)
+
 
 ## 2. Основы Git
 Задание: Выполните следующие действия с использованием Git:
@@ -23,6 +28,7 @@
 ` Hello DevOps `
 
 ` control+O -> control+X`
+
 - Закоммитьте изменения с сообщением “Initial commit”.
 ` git add test.txt `
 
@@ -30,6 +36,9 @@
 
 - Покажите историю коммитов.
 ` git log `
+
+![image](https://github.com/user-attachments/assets/99cfe2ec-cbb7-4125-8a57-658fb38d9983)
+
 
 ## 3. Основы сетевых технологий
 - Что такое IP-адрес и для чего он используется?
